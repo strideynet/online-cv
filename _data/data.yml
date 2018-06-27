@@ -92,8 +92,12 @@ skills:
           name: Linux Systems Administration
           level: 90%
         - skill:
+          name: Windows Systems Administration
+          level: 70%
+        - skill:
           name: Python, Ruby, Bash
           level: 70%
+
 
 
 footer: 
