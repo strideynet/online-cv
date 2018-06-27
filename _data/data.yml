@@ -5,8 +5,8 @@
 sidebar:
     # Site Settings
     title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    url: 'https://cv.noahstride.co.uk'
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Alan Doe
