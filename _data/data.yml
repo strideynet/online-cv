@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Noah Stride CV
     url: 'https://cv.noahstride.co.uk'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -52,22 +52,19 @@ career-profile:
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: A-Levels
+      university: Bournemouth School
+      time: 2017-19
+      details: "I am currently a full time student at Bournemouth School studying Computer
+       Science, Physics and Philosophy. Outside of my studies I help with the school newspaper and
+       computing society, where I assist younger students with learning to program. A reference from
+       my Computer Science teacher is available on request."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: GCSEs
+      university: Bournemouth School
+      time: 2017
+      details: "I completed my GCSEs in the Summer of 2017 and received 8 A*s, 2 As and 2 Bs."
 
 
 projects:
