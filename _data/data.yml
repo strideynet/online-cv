@@ -31,23 +31,24 @@ sidebar:
         
     interests:
         - interest:
-          item: Climbing
+          item: Photography
           link:
         - interest:
-          item: Snowboarding
+          item: Bass Guitar
           link:
         - interest:
           item: Cooking
           link:
-
-        
-
-
+        - interest:
+          item: Gaming
+          link:
 
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: "Hi, I'm Noah. I'm a full time student looking to develop a career in either Software Development or Systems Administration.
+    Over the past few years, I have worked on open source projects as well as some applications for clients with a focus on full-stack
+     Javascript SPAs. Technology makes up a large part of my life and nothing is more exciting than a problem waiting to be solved."
 
 
 studies: 
@@ -93,25 +94,6 @@ projects:
         title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
