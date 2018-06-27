@@ -17,17 +17,6 @@ sidebar:
     email: noah@noahstride.co.uk
     website: noahstride.co.uk #do not add http://
     github: strideynet
-
-    languages:
-        - language:
-          idiom: English
-          level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
         
     interests:
         - interest:
@@ -70,53 +59,41 @@ studies:
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: "I've worked on a variety of different projects over the years, here are a few."
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Coriolis
+        link: "coriolis.io"
+        tagline: "Coriolis is a online tool for Elite Dangerous. I managed the issues and pull requests for the open-source
+         repo from 2017-18."
       - project:
-        title: DevStudio
+        title: SDML
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "In 2018 I began work on a tailored solution for a customer to replace an aging spreadsheet system that
+        manages purchase-orders and invoices. SDML is based on NodeJS, VueJS and MongoDB."
       - project:
-        title: Tempo
+        title: BBB
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-      - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "In 2016 I produced a NodeJS and JQuery based ticket order system for the charity Action Academy. It allowed participants
+         to purchase tickets online through Paypal, handling £30,000 yearly."
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: Node JS
+          level: 90%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Vue JS, Bootstrap and SASS
+          level: 80%
         - skill:
-          name: Angular
-          level: 98%
+          name: Linux Systems Administration
+          level: 90%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Python, Ruby, Bash
+          level: 70%
 
 
 footer: 
