@@ -55,6 +55,12 @@ studies:
       university: Bournemouth School
       time: 2017
       details: "I completed my GCSEs in the Summer of 2017 and received 8 A*s, 2 As and 2 Bs."
+      
+experiences:
+    - experience:
+      time: 2018 - Ongoing
+      company: Cudo Ventures
+      role: Software Developer
 
 
 projects:
