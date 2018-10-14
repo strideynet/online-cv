@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Noah Stride's CV"
+description: "Full Stack Software Developer"
 
 # Build settings
 markdown: kramdown
@@ -23,7 +23,7 @@ resume_contact_address:         "Bournemouth"
 resume_header_contact_info:     "noah@noahstride.co.uk"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm an enthusiastic junior full stack developer looking to work on exciting new projects. I'm familiar with a variety of technologies and always looking to pick up more.</p>"
+resume_header_intro: "<p>I'm an enthusiastic junior full stack developer looking to work on exciting new projects. Over the past few years I have experienced a variety of technologies and always looking to pick up more. I currently work with Node JS, Electron, Vue, React and Linux Administration, but enjoy learning new technologies.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
