@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da0161a6-b419-467e-9804-0f9b018b0469" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/resume.html" afterDir="false" />
-    </list>
+    <list default="true" id="da0161a6-b419-467e-9804-0f9b018b0469" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,6 +22,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
+          <entry key="jpg" value="1" />
           <entry key="yaml" value="2" />
           <entry key="yml" value="1" />
         </counts>
@@ -32,6 +30,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
+          <entry key="Image" value="1" />
           <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
@@ -73,6 +72,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/avatar.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -107,8 +111,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-808" />
-    <option name="y" value="-8" />
+    <option name="x" value="83" />
+    <option name="y" value="-23" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -134,6 +138,11 @@
               <item name="online-cv" type="b2602c69:ProjectViewProjectNode" />
               <item name="online-cv" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-cv" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,15 +178,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539527399222</updated>
-      <workItem from="1539527400718" duration="1536000" />
+      <workItem from="1539527400718" duration="2152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1536000" />
+    <option name="totallyTimeSpent" value="2152000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="169" y="193" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -222,6 +231,9 @@
           <caret line="234" column="88" selection-start-line="234" selection-start-column="88" selection-end-line="234" selection-end-column="88" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/avatar.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
