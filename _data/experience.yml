@@ -3,10 +3,11 @@
   position: Full Stack Developer
   duration: July 2018 &mdash; Present
   summary: >
-   I began at Cudo in August 2018. The role has involved a range of development including the desktop application, web portal and API. Over my time at Cudo, the role has developed to include me taking responsibility for the Kubernetes cluster and other key infrastructure and deployment/testing pipelines as part of CI/CD  in an SRE/DevOps-esque role
+   I began at Cudo in August 2018. The role has involved a range of development including the desktop application, web portal and API as well as backroom tools for analytics. Over my time at Cudo, the role has grown to include taking responsibility for the infrastructure such as the Kubernetes cluster, CI/CD pipelines, metrics and monitoring in an SRE/DevOps fashion.
    <br/><br/>
-   At Cudo I gained experience with a variety of technologies including Vue + Vuex, React + Redux and Loopback. I also worked on the Linux OS, testing and developing Unix specific functionality into the desktop application. On the SRE/DevOps front, experience was gained managing Kubernetes, Istio and Airflow as well as GCP products such as PubSub, IoT and Cloud Build.
-
+   The Cudo stack is primarily based on a  variety of Javascript techs such as Vue, React, Electron and NodeJS. On the SRE/DevOps front, experience was gained handling Kubernetes, Istio and Airflow, including producing Python DAGs for ETL, and I also dealt with the GCP products, including but not limited to BigQuery, PubSub, Cloud Functions, VPCs/Peering and Stackdriver.
+   <br/><br/>
+   Cudo presented a range of difficult and interesting problems around the Blockchain and Distributed compute sphere, giving me the opportunity to push my boundaries.
 - company: Freelance Work
   position: Variety of Projects
   duration: 2016 &mdash; Present
